@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Fugaz+One);
+
+h1 {
+  text-align: center;
+  font-family: 'Fugaz One', cursive;
+  font-size: 40px;
+  color: #8BC34A;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Fugaz One', cursive;
+  font-size: 40px;
+  color: black;
+}
+
+#contact {
+  text-align: center;
+}
+
+h2 {
+  border-bottom-style: solid;
+  border-bottom-color: #8BC34A;
+  border-bottom-width: medium;
+
+}
